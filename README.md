@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @serendipity-ka
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning html、css、es6 ect
+- 🌱 I’m currently learning html、css、javascript ect
 - 💞️ I’m looking for jobs
 - 📫 How to reach me 2996851427@qq.com
 
